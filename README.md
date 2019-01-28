@@ -1,2 +1,2 @@
 # aescon
-AES implementation in C++
+AES implementation in MS Visual C++
